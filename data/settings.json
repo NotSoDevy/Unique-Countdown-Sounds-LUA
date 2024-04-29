@@ -1,0 +1,9 @@
+[
+	{
+		"save": "uniqueCountSound",
+		"name": "Unique Countdown Sounds",
+		"type": "bool",
+		"description": "If disabled, will use the default countdown sounds from the original FNF base game.",
+		"value": true
+	}
+]

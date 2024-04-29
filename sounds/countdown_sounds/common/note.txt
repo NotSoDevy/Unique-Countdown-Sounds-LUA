@@ -1,0 +1,5 @@
+The common folder is pretty self-explanatory. It's pretty much a global folder if the "defaultSound" is enabled.
+
+Both "-fnf" and "-fnf_pixel" prefixes are used when the unique countdown setting is disabled.
+
+(If the unique countdown setting is disabled, "defaultSound" will always be set to true).

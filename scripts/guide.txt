@@ -1,0 +1,20 @@
+setting_Countdown: 
+Gets the countdown setting from the "data/settings.json" file.
+
+prefixString:
+Adds a prefix to the countdown sound. This is useful for checking if the opponent is at a different song.
+
+defaultSound:
+If enabled, will use the countdown sounds in the "common" folder.
+
+repeatSound:
+If enabled, the opponent will use the "main.ogg" file for the 3, 2, 1 sounds.
+
+customCountdownSetup():
+A function that is used to modify the prefix string or enable default countdown sounds.
+
+fnfCountdownSetup():
+A function that is used if the unique countdown setting is disabled.
+
+onCountdownTick():
+DO NOT TOUCH, IT IS HANDLED AUTOMATICALLY.

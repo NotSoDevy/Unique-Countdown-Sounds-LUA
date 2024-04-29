@@ -1,0 +1,2 @@
+This folder here is an example the opponent character using the "main.ogg" file if "repeatSound" is set to true.
+(Same for senpai-angry & spirit)
